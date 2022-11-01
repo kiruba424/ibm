@@ -5,5 +5,8 @@
 
 ![images (2)](https://user-images.githubusercontent.com/72984998/199306400-c779be43-ea85-478f-8d3a-01c9b7633022.jpg)
 
+![SpaceML_Nasa](https://user-images.githubusercontent.com/72984998/199307856-1b0ab85a-b357-4dd7-a678-ee97d1a95149.png)
+
+
 ### Technical Architecture:
 ![image12](https://user-images.githubusercontent.com/72984998/199307276-f2514dd0-3293-4560-bb80-7d1742d18835.png)
